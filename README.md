@@ -1,6 +1,5 @@
-# sanjayatripathy45-
 
-<h1><p align="center">Hello, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Sanjaya Kumar Tripathy! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
@@ -39,8 +38,8 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sanjayatripathy45&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=sanjayatripathy45&">
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
@@ -78,7 +77,4 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
 </div>  
------
-Credits: [RahulMahesh62](https://github.com/RahulMahesh62)
 
-Last Edited on: 15/01/2021
