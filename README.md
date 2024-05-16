@@ -11,7 +11,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on some secret stuff.
+- 🔭 I'm working as software developer.
 - 🌱 I’m currently learning Full Statck Dev.
 - 👯 I’m looking to collaborate on Frontend-Web.
 - 🤔 I’m looking for help with fornt end dev.
