@@ -177,7 +177,6 @@ CGPA: **8.4 / 10**
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjayatripathy45&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32" alt="Sanjaya's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayatripathy45" alt="Sanjaya's GitHub streak" />
 </p>
 
