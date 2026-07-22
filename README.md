@@ -174,12 +174,6 @@ CGPA: **8.4 / 10**
   </a>
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayatripathy45" alt="Sanjaya's GitHub streak" />
-</p>
-
 ## My Tools and Learnings
 
 <p align="left">
